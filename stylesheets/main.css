@@ -7,6 +7,9 @@ img {
   margin: 10%;
   height: 200px;
 }
+
+.portrait {
+  transform: rotate(10deg);
 /*p {
   background: rgb(103, 16, 63);
 }*/
