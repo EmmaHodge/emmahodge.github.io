@@ -3,7 +3,10 @@ body {
   margin-right: 10%;
   font-family: Tahoma, Geneva, sans-serif;
 }
-
+img {
+  margin: 10%;
+  height: 200px;
+}
 /*p {
   background: rgb(103, 16, 63);
 }*/
