@@ -1,5 +1,5 @@
 body {
-  margin-left: 10%; 
+  margin-left: 10%;
   margin-right: 10%;
   font-family: Tahoma, Geneva, sans-serif;
 }
@@ -12,6 +12,21 @@ img {
   transform: rotate(10deg);
   border:10px solid black;
 }
+
+.posts /*only need the class name*/{
+  float: right;
+  border-left: 1px solid black;
+  padding-left: 10px;
+}
+
+.h-card {
+  float: left;
+}
+
+body {
+  width: 700px;
+}
+
 /*p {
   background: rgb(103, 16, 63);
 }*/
