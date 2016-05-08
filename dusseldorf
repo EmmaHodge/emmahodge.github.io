@@ -1,1 +1,21 @@
 
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Emma's Website</title>
+  <link rel="stylesheet" type="text/css" href="stylesheets/main.css">
+</head>
+<body>
+  <h1>Emma Hodge</h1>
+ 
+<h3> Dusseldorf: Visiting Antonia and IndieWebCamp </h3>
+
+   <p></p>
+  May 8, 2016 
+  <p></p>
+   <img class="u-photo" src="emmahodge.github.io/Gehrybuildings_med.jpeg">
+
+</body>
+</html>
+ 
