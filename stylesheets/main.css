@@ -10,7 +10,7 @@ img {
 
 .portrait {
   transform: rotate(10deg);
-  border:20px solid gray;
+  border:10px solid black;
 }
 /*p {
   background: rgb(103, 16, 63);
