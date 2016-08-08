@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <title>Emma's Website</title>
+  <link rel="stylesheet" type="text/css" href="stylesheets/main.css">
+</head>
+<body>
+  <h1>Emma Hodge</h1>
+  
+<div class="h-entry">
+ RSVP <span class="p-rsvp">yes</span> 
+ to <a href="http://2016.indieweb.org/nyc2" class="u-in-reply-to">IndieWeb NYC2 Event</a>
+</div>
+
+</body>
+</html>
