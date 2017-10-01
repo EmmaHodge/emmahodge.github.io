@@ -9,7 +9,6 @@ img {
 }
 
 .portrait {
-  transform: rotate(10deg);
   border:10px solid black;
 }
 
