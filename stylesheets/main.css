@@ -2,7 +2,7 @@
 @import url("https://fonts.googleapis.com/css?family=Quattrocento:400,700");
 
 body {
-  background-color: #002b36;
+  background-color: #FFF9F3;
   color: #839496;
   font-family: 'Quattrocento', serif;
   font-size: 100%;
@@ -16,6 +16,18 @@ img {
   margin: 5%;
   height: 300px;
 }
+
+a:link {
+  color: #839496;
+  text-decoration: none;
+  font-weight: 700; }
+
+a:visited {
+  color: #839496; }
+
+a:hover {
+  cursor: pointer;
+  border-bottom: 1px dashed; }
 
 .portrait {
   border:10px solid black;
