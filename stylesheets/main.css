@@ -30,7 +30,7 @@ a:hover {
   border-bottom: 1px dashed; }
 
 .portrait {
-  border:10px solid black;
+  border:10px solid white;
 }
 
 .posts /*only need the class name*/{
